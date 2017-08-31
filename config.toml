@@ -1,4 +1,4 @@
-baseurl = "https://example.org/"
+baseurl = "/"
 languageCode = "en-us"
 title = "HBTU Lit Herald"
 theme = "hugo-strata-theme"
@@ -144,14 +144,4 @@ paginate = 10
 [[menu.main]]
 	name = "Manifesto"
 	url  = "post/"
-	weight = 0
-
-[[menu.main]]
-	name = "Agenda"
-	url  = "agenda/"
-	weight = 0
-
-[[menu.main]]
-	name = "posts"
-	url  = "blog/"
 	weight = 0
